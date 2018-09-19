@@ -42,7 +42,7 @@
     "blue-button-meta": "1.7.0",
     "blue-button-model": "~1.10.0",
     "blue-button-xml": "~1.8.0",
-    "lodash": "^3.10.0",
+    "lodash": "4.17.11",
     "winston": "~1.0.0"
   },
   "devDependencies": {
